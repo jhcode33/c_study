@@ -1,4 +1,2 @@
-﻿  test.c
-C:\workspace\c_proj\hello\hello\test.c(9,12): warning C4305: '=': 'int'에서 'unsigned short'(으)로 잘립니다.
-C:\workspace\c_proj\hello\hello\test.c(10,12): warning C4305: '=': '__int64'에서 'unsigned int'(으)로 잘립니다.
+﻿  realNumber.c
   hello.vcxproj -> C:\workspace\c_proj\hello\x64\Debug\hello.exe
