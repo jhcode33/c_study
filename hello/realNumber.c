@@ -13,4 +13,6 @@ int main()
     printf("%0.40f %.2f\n", n1, n2);
     printf("%e %e\n", n3, n4);
     printf("%Le %Le\n", n5, n6);
+
+    return 0;
 }
