@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hello", "hello\hello.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bitOperation", "bitOperation\bitOperation.vcxproj", "{3D023674-54C7-4756-946A-E1F6920B2D6E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer", "pointer\pointer.vcxproj", "{BFD9E8A8-DF65-4A72-9966-95E84837F3E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{3D023674-54C7-4756-946A-E1F6920B2D6E}.Release|x64.Build.0 = Release|x64
 		{3D023674-54C7-4756-946A-E1F6920B2D6E}.Release|x86.ActiveCfg = Release|Win32
 		{3D023674-54C7-4756-946A-E1F6920B2D6E}.Release|x86.Build.0 = Release|Win32
+		{BFD9E8A8-DF65-4A72-9966-95E84837F3E3}.Debug|x64.ActiveCfg = Debug|x64
+		{BFD9E8A8-DF65-4A72-9966-95E84837F3E3}.Debug|x64.Build.0 = Debug|x64
+		{BFD9E8A8-DF65-4A72-9966-95E84837F3E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFD9E8A8-DF65-4A72-9966-95E84837F3E3}.Debug|x86.Build.0 = Debug|Win32
+		{BFD9E8A8-DF65-4A72-9966-95E84837F3E3}.Release|x64.ActiveCfg = Release|x64
+		{BFD9E8A8-DF65-4A72-9966-95E84837F3E3}.Release|x64.Build.0 = Release|x64
+		{BFD9E8A8-DF65-4A72-9966-95E84837F3E3}.Release|x86.ActiveCfg = Release|Win32
+		{BFD9E8A8-DF65-4A72-9966-95E84837F3E3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
